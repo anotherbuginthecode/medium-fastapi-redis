@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+redis
+pydantic
+sqlalchemy
+psycopg2-binary
+jinja2==3.0.3
+jinjasql==0.1.8
